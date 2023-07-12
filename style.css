@@ -1,0 +1,14 @@
+.input{
+    margin-bottom: 50px;
+}
+
+.input1{
+    width: 500px;
+    height: 200px;
+    box-sizing: border-box;
+    text-align: left;
+}
+
+.input2{
+    align-self: baseline;
+}
